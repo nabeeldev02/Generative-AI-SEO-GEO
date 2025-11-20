@@ -23,7 +23,7 @@ This tool fetches SERP results, analyzes top-ranking pages, generates an outline
 ### 1️⃣ Clone your project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nabeeldev02/Generative-AI-SEO-GEO.git
 cd Article_Generation
 ```
 
