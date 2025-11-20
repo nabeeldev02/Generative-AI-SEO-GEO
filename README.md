@@ -24,7 +24,7 @@ This tool fetches SERP results, analyzes top-ranking pages, generates an outline
 
 ```bash
 git clone https://github.com/nabeeldev02/Generative-AI-SEO-GEO.git
-cd Article_Generation
+cd Generative-AI-SEO-GEO
 ```
 
 ---
