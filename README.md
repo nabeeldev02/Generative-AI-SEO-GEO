@@ -1,9 +1,4 @@
 # Generative-AI-SEO-GEO
-Here's a clean **README.md** for your project — simple, professional, and includes everything: venv setup, installing deps, running the script, and expected output.
-
----
-
-# **SEO Article Generation Service**
 
 A complete backend pipeline that automatically generates **SEO-optimized articles** using SERP analysis, reranking, and LLM-powered content creation (Gemini / OpenAI).
 
